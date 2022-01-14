@@ -1,4 +1,6 @@
 # SNOW-ITIL
+https://www.servicenow.com/products/itsm/what-is-itil.html
+https://docs.servicenow.com/bundle/rome-servicenow-platform/page/product/configuration-management/concept/c_ITIL.html
 
 ITIL (acronym for Information Technology Infrastructure Library) is a set of detailed practices for IT service management (ITSM) that focuses on aligning IT services with the needs of business.
 
